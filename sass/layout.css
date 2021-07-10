@@ -578,7 +578,7 @@ h4 {
   	[Footer]
 ------------------------------------------------------------------*/
 .footer .footer-logo {
-  width: 300px;
+  width: 200px;
   height: auto; }
 
 /*------------------------------------------------------------------
@@ -660,8 +660,8 @@ h4 {
 
 /* Navbar Logo */
 .header .logo {
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   float: left;
   max-height: 120px;
   line-height: 90px; }
@@ -674,10 +674,10 @@ h4 {
 
 .header .logo-img {
   display: inline-block;
-  width: 300px;
+  width: 200px;
   height: auto;
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 150%;
+  max-height: 150%;
   vertical-align: middle; }
 
 .header .logo-img-main {
