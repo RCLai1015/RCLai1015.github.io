@@ -12,16 +12,16 @@ It is better to view the page on computer (chrome/safari/firefox)
 
 ## Some important command in HEXO 
 
-###hexo clean 
+### hexo clean 
 Cleans the cache file (db.json) and generated files (public).
 
-###hexo generate (hexo g)
+### hexo generate (hexo g)
 Generates static files.
 
-###hexo server (hexo s)
+### hexo server (hexo s)
 Starts a local server. By default, this is at http://localhost:4000/.
 
-###hexo deploy (hexo d)
+### hexo deploy (hexo d)
 Deploys my website.
 
 
